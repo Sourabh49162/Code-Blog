@@ -1,0 +1,20 @@
+{
+    "params":
+    {
+        "local_server" : true,
+        "local_uri" : "mysql://root:@127.0.0.1/Code_Blog",
+        "prod_uri" : "",
+        "blog_name" : "Code Blog",
+        "blog_tagline" : "The Programmer's Blog",
+        "facebook_url" : "https://facebook.com/codeblog",
+        "twitter_url" : "https://twitter.com/codeblog",
+        "github_url" : "https://github.com/codeblog",
+        "gmail_username" : "username@gmail.com",
+        "gmail_password" : "gmail-password",
+        "about_text" : "About text from Config File",
+        "no_of_posts" : 5,
+        "admin_img" : "bootstrap-solid.svg",
+        "admin_username" : "Sourabh",
+        "admin_password" : "admin@123"
+    }
+}
